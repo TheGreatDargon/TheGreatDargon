@@ -4,18 +4,18 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 
 ## Current Project - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
 
-[X] Create Board
-[X] Display the Board
-[X] Allow player to place Pieces
-[X] Check if a slot is empty
-[X] Implement "Gravity" to move pieces to bottom of column
-[X] Check if a column is full
-[X] Allow for 2 players
-[] Create win condition logic
-    [X] Create row win logic
-    [X] Create col win logic
-    [] Create Diag win logic
-[] Create a simple computer algorithm for one Player
+- [X] Create Board
+- [X] Display the Board
+- [X] Allow player to place Pieces
+- [X] Check if a slot is empty
+- [X] Implement "Gravity" to move pieces to bottom of column
+- [X] Check if a column is full
+- [X] Allow for 2 players
+- [] Create win condition logic
+    - [X] Create row win logic
+    - [X] Create col win logic
+    - [] Create Diag win logic
+- [] Create a simple computer algorithm for one Player
 
 ## Completed Projects
 - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
