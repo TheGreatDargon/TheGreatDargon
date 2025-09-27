@@ -11,7 +11,7 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 - [X] Implement "Gravity" to move pieces to bottom of column
 - [X] Check if a column is full
 - [X] Allow for 2 players
-- [] Create win condition logic
+\- [] Create win condition logic
     - [X] Create row win logic
     - [X] Create col win logic
     - [] Create Diag win logic
