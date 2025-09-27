@@ -2,8 +2,12 @@
 
 Hello I am a new programmer from the University of Wisconsin Eau-Claire. This readme will list and link to my public projects, it will also include the project that I am currently working on and the defined goals that I have/have not completed.
 
+## Current Project - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
+
+
 ## Projects
-- [Connect 4]()
+- [Connect 4](https://github.com/TheGreatDargon/Connect-4)
+
 
 <!--
 **TheGreatDargon/TheGreatDargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
