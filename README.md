@@ -17,7 +17,7 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
     - [] Create Diag win logic
 - [] Create a simple computer algorithm for one Player
 
-## Completed Projects
+## Projects
 - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
 
 
