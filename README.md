@@ -6,4 +6,3 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 
 ## Projects
 - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
-- [School Projects](https://github.com/TheGreatDargon/school/tree/main)
