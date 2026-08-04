@@ -9,7 +9,7 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 ## Current Project - None
 
 ## Projects
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width=61 >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width=61 height=50 >
 - [Connect 4](https://github.com/TheGreatDargon/Connect-4)
 - [Pokemon Price Exporter](https://github.com/TheGreatDargon/pokemon_price_exporter)
 - [Tic-Tac-Toe](https://github.com/TheGreatDargon/Tic-Tac-Toe)
