@@ -6,7 +6,7 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 
 [Resume](https://github.com/TheGreatDargon/resume.git)
 
-## Current Project - None
+## Current Project - My JavaScript Games
 
 ## Projects
 
@@ -29,5 +29,6 @@ Hello I am a new programmer from the University of Wisconsin Eau-Claire. This re
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width=61 height=50> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width=61 height=50> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="Javascript logo" width=61 height=50>
 - [Gaming Webpage](https://github.com/TheGreatDargon/gaming_webpage)
 - [Web Systems Final](https://github.com/TheGreatDargon/Web-Systems-Final-Project)
+- [JavaScript Games](https://github.com/TheGreatDargon/JavascriptGames)
 
 <hr>
